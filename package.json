@@ -1,12 +1,13 @@
 {
   "name": "quiz-command-line",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "quiz.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": "./quiz.js",
   "keywords": [],
   "author": "Max",
   "license": "ISC",
